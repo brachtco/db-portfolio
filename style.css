@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0%;
+}
+
+body {
+    background-color:azure;
+}
+
+.head {
+    background-color: black;
+}
+
+.page-title {
+    color: antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headshot {
+    text-align: center;
+}
+
+a href {
+    display: flex;
+    
+}
+
+#mountains {
+    display: inline-block;
+    width: 100%;
+}
+
+.left-side {
+    width: 25%;
+    border-right: 5px solid green;
+    margin-left: 15px;;
+}
